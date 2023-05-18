@@ -1,3 +1,5 @@
+# https://codeforces.com/contest/469/problem/A
+
 # 1 <= n <= 100 - total game levels
 n_levels = int(input())
 

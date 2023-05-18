@@ -1,3 +1,5 @@
+# https://codeforces.com/contest/1328/problem/A
+
 test_cases = int(input())
 
 for case in range(test_cases):
@@ -10,12 +12,3 @@ for case in range(test_cases):
     else:
         result = b - (a % b)
         print(result)
-
-    # while a % b != 0:
-    #     a += 1
-    #     moves += 1
-    #
-    # print(moves)
-    # a = 17
-    # b = 5
-    # b - (a % b) = 5 - (17 % 5)
